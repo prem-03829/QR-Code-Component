@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/prem-03829/QR-Code-Component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Vercel link](https://qr-code-component-mu-green.vercel.app/)
 
 ## My process
 
